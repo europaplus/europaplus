@@ -1,7 +1,7 @@
 # \<header>Hi there 👋\</header>
 ## - I’m currently learning C/C++, JavaScript, React+Redux
 ____
-###The most interesting projects:
+### The most interesting projects:
 
 [![Server](https://img.shields.io/badge/Server-pink?style=plastic&logo=docker)](https://github.com/europaplus/Server)
 This project is intended to introduce to system administration. Using scripts to automate tasks. This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
