@@ -1,6 +1,5 @@
 # \<header>Hi there 👋\</header>
 ## - I’m currently learning C/C++, JavaScript, React+Redux
-____
 ### The most interesting projects:
 
 [![Server](https://img.shields.io/badge/Server-pink?style=plastic&logo=docker)](https://github.com/europaplus/Server)
