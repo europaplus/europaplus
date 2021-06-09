@@ -3,14 +3,14 @@
 ____
 ###The most interesting projects:
 
-![Server](https://img.shields.io/badge/Server-pink?style=plastic&logo=docker&link=https://github.com/europaplus/?)
-This project...
+[![Server](https://img.shields.io/badge/Server-pink?style=plastic&logo=docker)](https://github.com/europaplus/Server)
+This project is intended to introduce to system administration. Using scripts to automate tasks. This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
 
-![Services](https://img.shields.io/badge/Services-pink?style=plastic&logo=docker&link=https://github.com/europaplus/?)
-This project...
+[![Services](https://img.shields.io/badge/Services-pink?style=plastic&logo=docker)](https://github.com/europaplus/Services)
+This project setup a Kubernetes cluster.
 
-![miniShell](https://img.shields.io/badge/MiniShell-pink?style=plastic&logo=docker&link=https://github.com/europaplus/miniShell)
-This project...
+[![miniShell](https://img.shields.io/badge/MiniShell-pink?style=plastic&logo=docker)](https://github.com/europaplus/miniShell)
+The objective of this project is for you to create a simple shell. My own little bash or zsh.
 
 <!--
 **europaplus/europaplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
