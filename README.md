@@ -1,4 +1,4 @@
-# \<header>Hi there 👋\</header>
+# Hi there 👋
 ## - I’m currently learning C/C++, JavaScript, React+Redux
 ### The most interesting projects:
 
