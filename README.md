@@ -11,7 +11,7 @@ This project setup a Kubernetes cluster.
 [![miniShell](https://img.shields.io/badge/MiniShell-pink?style=plastic&logo=docker)](https://github.com/europaplus/miniShell)
 The objective of this project is for you to create a simple shell. My own little bash or zsh.
 
-[![mini-web-server](https://img.shields.io/badge/MiniShell-pink?style=plastic&logo=docker)](https://github.com/sfcdota/mini-web-server)
+[![mini-web-server](https://img.shields.io/badge/miniWebServer-pink?style=plastic&logo=docker)](https://github.com/sfcdota/mini-web-server)
 Mini version of a web server with nginx-like behavior
 <!--
 **europaplus/europaplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
